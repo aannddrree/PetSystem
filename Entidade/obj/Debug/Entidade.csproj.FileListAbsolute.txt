@@ -1,0 +1,5 @@
+c:\users\andresil\documents\visual studio 2012\Projects\PetSystem\Entidade\bin\Debug\Entidade.dll
+c:\users\andresil\documents\visual studio 2012\Projects\PetSystem\Entidade\bin\Debug\Entidade.pdb
+c:\users\andresil\documents\visual studio 2012\Projects\PetSystem\Entidade\obj\Debug\Entidade.csprojResolveAssemblyReference.cache
+c:\users\andresil\documents\visual studio 2012\Projects\PetSystem\Entidade\obj\Debug\Entidade.dll
+c:\users\andresil\documents\visual studio 2012\Projects\PetSystem\Entidade\obj\Debug\Entidade.pdb
